@@ -6,5 +6,5 @@ Little script for quick view if you are compromised by bot
   * Remote IP 
   * Property of the IP with ipinfo.net 
   * Associate program
-  * User(s) connected
-  * Account in localgroup Administrators
+* User(s) connected
+* Account in localgroup Administrators
