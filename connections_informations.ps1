@@ -48,3 +48,10 @@ if (($result -eq "y") -or ($result -eq "yes")){
     $list_of_result | Out-File -Filepath $desktop_user_path
     Write-Host "the report is on your desktop "
 }
+
+
+write-host "User(s) connected"
+query session
+
+write-host "Account in localgroup Administrators"
+Get-LocalGroupMember -Group "Administrators"
