@@ -49,6 +49,8 @@ if (($result -eq "y") -or ($result -eq "yes")){
     Write-Host "the report is on your desktop "
 }
 
+#View task scheduler
+Get-ScheduledTask
 
 write-host "User(s) connected"
 query session
