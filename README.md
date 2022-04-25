@@ -8,3 +8,7 @@ Little script for quick view if you are compromised by bot
   * Associate program
 * User(s) connected
 * Account in localgroup Administrators
+
+
+# To do for futur :
+add autoruns.exe : https://live.sysinternals.com/autoruns.exe for check unknow publisher
