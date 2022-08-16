@@ -11,4 +11,7 @@ Little script for quick view if you are compromised by bot
 
 
 # To do for futur :
-add autoruns.exe : https://live.sysinternals.com/autoruns.exe for check unknow publisher
+* add autoruns.exe : https://live.sysinternals.com/autoruns.exe for check unknow publisher
+
+* Add a file with hash of task scheduler for compare
+
