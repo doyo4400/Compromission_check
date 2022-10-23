@@ -14,4 +14,6 @@ Little script for quick view if you are compromised by bot
 * add autoruns.exe : https://live.sysinternals.com/autoruns.exe for check unknow publisher
 
 * Add a file with hash of task scheduler for compare
+OR
+* Get-ScheduledTask | Where-Object {$_.State -match 'Ready'} 
 
