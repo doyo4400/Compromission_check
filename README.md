@@ -17,3 +17,8 @@ Little script for quick view if you are compromised by bot
 OR
 * Get-ScheduledTask | Where-Object {$_.State -match 'Ready'} 
 
+Windows
+>  netstat -afb
+
+Linux
+> sudo netstat -lnp
