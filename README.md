@@ -22,4 +22,5 @@ Windows
 
 Linux
 > sudo netstat -lnp
+> 
 > sudo netstat -anp 
